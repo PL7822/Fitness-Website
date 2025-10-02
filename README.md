@@ -1,5 +1,5 @@
-# Gym Trainer Website
-
+# Gym Trainer Website <br> <br> 
+ My personal portfolio   <a href="https://68d1a2d92f3bbf7602ea7cab--portfolio-master-pritam.netlify.app/" target="_blank">Pritam_Lendale</a> <br> 
 ## Project Overview
 
 **Gym Trainer** is a responsive website template designed for fitness centers, gyms, and personal trainers. The template provides a modern and clean design to showcase services, trainers, schedules, and contact information in an engaging way.
@@ -46,4 +46,5 @@ Check out the live demo of the website here:
    
 
 ---
+
 
